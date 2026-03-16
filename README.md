@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Siddhartha351
-- 👀 I’m interested in C/C++
+- 👀 I’m interested in QT/Linux Desktop Projects
 - 🌱 I’m currently learning C/C++
 - 💞️ I’m looking to collaborate on something easy
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i use arch btw
+- ⚡ Fun fact: I use arch btw
